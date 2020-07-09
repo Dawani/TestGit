@@ -1,0 +1,4 @@
+Ticket_T001_EC_381.5_Shenyang_Rizhao_14:30PM
+Product_P001_FiredChicken_20.5
+Ticket_T002_EC_251.5_Beijing_Rizhao_12:30PM
+
